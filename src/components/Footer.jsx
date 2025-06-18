@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t border-gary-700 py-4 mt-10 text-center text-gray-500">
-        Copyright © 2024 Landmark Lane Estates , Inc. All Rights Reserved
+        Designed and build by Suraj Tiwari, 2025 © All rights reserved.
       </div>
     </div>
   );
